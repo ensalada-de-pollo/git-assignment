@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 main branch 1
+=======
+feature branch
+>>>>>>> b3c13e4 (커밋 충돌 실험)
